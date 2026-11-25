@@ -390,4 +390,14 @@ No hace falta estar seguro de que es un problema. Si tienes dudas, reporta. No s
 
 ### 4.3 Autoría y herramientas
 
-Documento elaborado como práctica profesional del módulo PE 90.1. Las decisiones de diseño — selección de principios, priorización de normas, estructura del programa de concienciación y contenido de M-01 — son propias, basadas en la lectura directa de ISO/IEC 27001:2022 e ISO/IEC 27002:2022 y en el uso de IA generativa como herramienta de estructuración, revisión de terminología técnica y verificación de coherencia del conjunto.
+Documento elaborado como práctica profesional del módulo PE 90.1. Las decisiones de diseño — selección de principios, priorización de normas, estructura del programa de concienciación y contenido de M-01 — son propias, basadas en la lectura directa de ISO/IEC 27001:2022 e ISO/IEC 27002:2022.
+
+### 4.4 Uso de IA generativa
+
+| Herramienta | Uso |
+|---|---|
+| Claude (Anthropic) | Estructuración del documento, revisión de terminología técnica y coherencia normativa, reformulación de borradores, verificación de que los controles citados corresponden a ISO/IEC 27002:2022 |
+
+**Qué he hecho yo:** leer el brief, seleccionar los seis principios y las diez normas, decidir qué aplica realmente a Logisticfy (y qué no: ENS, MAGERIT, NIS2), priorizar activos por valoración CIA, definir el programa de concienciación y el material M-01. La IA no ha tomado ninguna decisión de diseño; ha servido para estructurar y revisar lo que ya tenía decidido.
+
+**Qué no ha hecho la IA:** inventar controles, valorar activos, decidir qué normativa aplica ni redactar las secciones de análisis sin dirección explícita mía.
